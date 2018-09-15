@@ -1,4 +1,4 @@
-# hopscotch-sample
+# tour-sample
 
 It just like a tour.
 
